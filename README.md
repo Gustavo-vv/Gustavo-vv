@@ -29,3 +29,6 @@ Habilidades em desenvolvimento:
 
 - [English for IT 1](https://www.credly.com/badges/e50e339f-2d31-4e26-9a65-6538e529d5f9/public_url) - NetAcad
 - [Fundamentos De Rede](https://www.credly.com/badges/1602f3b4-352a-47c5-931b-328121bccd40/public_url) - NetAcad
+- [Introdução à Cibersegurança](https://www.credly.com/badges/d5725f20-6834-468d-8f15-3f5f5029d032/public_url) - NetAcad
+
+
