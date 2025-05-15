@@ -3,7 +3,7 @@
 ## 🎯 Sobre mim
 Atualmente, curso Técnico em  Informatica, onde estou desenvolvendo habilidades em infraestrutura de TI, suporte técnico, redes e lógica de programação. Sou uma pessoa curiosa, com grande interesse em aprender sobre novas tecnologias, segurança da informação e desenvolvimento de software.
 
-## Objetivo
+## 🚀 Objetivo
 Busco minha primeira oportunidade profissional na área de TI para aplicar meus conhecimentos acadêmicos e contribuir com soluções inovadoras. Tenho facilidade com aprendizado rápido, resolução de problemas e trabalho em equipe, além de ser comprometido com o desenvolvimento contínuo.
 
 Habilidades em desenvolvimento:
